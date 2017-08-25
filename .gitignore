@@ -1,5 +1,5 @@
-/node_modules
-/dist
+node_modules
+dist
 
-/.json
-/gulpfile.js
+*.json
+gulpfile.js
